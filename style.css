@@ -1,0 +1,28 @@
+body {
+    height: 100vh;
+    background: linear-gradient(157deg, #FFF -19%, #FFEFBA 99.15%);
+}
+
+.title {
+    font-weight: 700;
+    font-size: 72px;
+    color: #000;
+    font-family: sans-serif;
+    text-align: center;
+    margin-bottom: 67px;
+}
+.coin {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 67px;
+    cursor: pointer;
+}
+.description {
+    text-align: center;
+    font-weight: 400;
+    font-size: 16px;
+    font-family: sans-serif;
+}
+.counter {
+    font-weight: 700;
+}
